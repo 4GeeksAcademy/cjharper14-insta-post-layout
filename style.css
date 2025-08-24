@@ -1,0 +1,29 @@
+.card {
+      border: 1px solid #dbdbdb;
+      border-radius: 0;
+    }
+    .card-header {
+      background: #fff;
+      border-bottom: none;
+      padding: 8px 16px;
+    }
+    .card-img-top {
+      object-fit: cover;
+      max-height: 614px;
+    }
+    .post-actions i {
+      font-size: 1.5rem;
+      cursor: pointer;
+    }
+    .post-footer {
+      font-size: 0.9rem;
+    }
+    .post-footer input {
+      border: none;
+      outline: none;
+      background: transparent;
+    }
+    .post-footer button {
+      font-weight: 600;
+      opacity: 0.6;
+    }
